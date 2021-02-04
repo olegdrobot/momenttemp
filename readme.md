@@ -1,1 +1,1 @@
-![Screenshot](Форма регистрации.png)
+![Screenshot](FormRegistration.png.png)
