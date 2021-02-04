@@ -1,1 +1,1 @@
-![FormRegistration](FormRegistration.png.png)
+![](FormRegistration.png.png)
