@@ -1,1 +1,1 @@
-![](momenttemp/formRegistration.png.png)
+![alt text](screenshots/formRegistration.png "Описание будет тут")
